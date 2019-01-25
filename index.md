@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title:  Brydon Holsey
 ---
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
@@ -14,7 +14,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 ### Fork this repository
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.Bootstrap
 
 ### Rename your forked repository
 
